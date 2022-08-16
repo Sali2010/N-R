@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  font-size: 0;
+}
+
+canvas {
+  background: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+.hidden {
+  display: none;
+}
